@@ -29,6 +29,5 @@
  
 </div>
  
-- 🔭 Atualmente procuro estagio ou vaga de junior
-- 🌱 Atualmente estudo java e javascript back end
+- 🔭 Atualmente faço estagio na pigz como devops backend
 - 👯 Contato: jeanvdsroque@gmail.com
