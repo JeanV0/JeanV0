@@ -25,7 +25,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/jean-victor-dos-santos-roque-b53b84236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JeanVictor0/JeanVictor0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JeanV0/JeanV0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
