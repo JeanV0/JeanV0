@@ -2,7 +2,7 @@
 
 [Meu github anterior](https://github.com/JeanVictor0) - Espero que gostem
 
-#### Sobre mim: Estudei php em um estagio e trabalho. Estudei em sequencia golang e aws. Sei de java por conta propria, node js e python. Estudei dev ops e estou aplicando meus estudos em meu estagio atualmente. Sou mais focado em back end em geral e infrastrutura
+#### Sobre mim: Sou devops developer, conhecimento e pratica em golang, php, node js, java e linux. Mais focado em php, golang e linux
 
 </div>
 
@@ -22,5 +22,4 @@
  
 </div>
  
-- 🔭 Atualmente faço estagio na pigz como devops backend
 - 👯 Contato: jeanvdsroque@gmail.com
