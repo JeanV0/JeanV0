@@ -2,7 +2,7 @@
 
 [Meu github anterior](https://github.com/JeanVictor0) - Espero que gostem
 
-#### Sobre mim: Sou devops developer, conhecimento e pratica em golang, php, node js, java e linux. Mais focado em php, golang e linux
+#### Sobre mim: Sou devops developer, conhecimento e pratica em golang, php, node js, java e linux. Mais focado em php, golang e linux. Pratica em cloud como aws. E tecnologias como docker 
 
 </div>
 
